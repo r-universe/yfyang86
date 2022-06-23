@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kmc"]
+	path = kmc
+	url = https://github.com/yfyang86/kmc
+	shallow = true
+	registered = true
