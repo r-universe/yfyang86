@@ -1,5 +1,9 @@
 [
   {
+    "package": "dblcens",
+    "oncran": true
+  },
+  {
     "package": "kmc",
     "oncran": true
   }
